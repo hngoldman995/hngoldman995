@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hannah
-- 👀 I’m interested in building accessible, inclusive products and digital experiences. Also have an interest in AI's
-- 🌱 I’m currently building a Card Game App
+- 👀 I’m interested in building accessible, inclusive products and digital experiences. 
+- 🌱 I’m currently building a Patient Portal Software.
 - 📫 How to reach me HannahGoldman995@gmail.com
 
 <!---
