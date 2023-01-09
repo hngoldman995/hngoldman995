@@ -1,4 +1,4 @@
- 👋 Hi, I’m Hannah
+Hi, I’m Hannah
 <br>
 And I'm a Software Engineer!
 <hr>
