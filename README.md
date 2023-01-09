@@ -1,7 +1,8 @@
  👋 Hi, I’m Hannah
 <br>
-<hr>
 And I'm a Software Engineer!
+<hr>
+
 
 -  My passion is to build accessible, inclusive products and digital experiences. 
 - 🌱 I’m currently building a Patient Portal Software.
