@@ -9,7 +9,7 @@ And I'm a Software Engineer!
 - 📫 How to reach me HannahNGoldman95@gmail.com
 
 
-What I love most about programming is getting to build digital experiences. I'm even fond of the obstacles and challenges that come with it. I compare these challenges to solving a puzzle, where usually the missing puzzle piece is a syntax error. Learning never ends in this field, and I consider myself a perpetual student in all areas of my life. Whether its improving a flawed software, or learning a new language, I am always making an effort to improve and grow.
+What I love most about programming is getting to build digital experiences. I'm even fond of the obstacles and challenges that come with it. I compare these challenges to solving a puzzle, where more often than not, the missing puzzle piece is something as small as a dreaded syntax error. Learning never ends in this field and I consider myself a perpetual student in all areas of my life. Whether its improving a flawed software, or learning a new language, I am always making an effort to improve and grow.
 
 
 <!---
